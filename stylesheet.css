@@ -1,0 +1,36 @@
+body {
+    background-color: black
+}
+body {
+    color: white;
+}
+h1 {
+    font-size: 20px;
+}
+p {
+    font-size: 12px;
+}
+
+p {
+    color: green;
+}
+
+div {
+    border-style: dotted; width: fit-content;
+    
+}
+div {
+    border-width: 2px;
+}
+
+ol {
+    list-style-type: lower-alpha;
+}
+ul { 
+    list-style: square;
+}
+
+
+
+
+    
